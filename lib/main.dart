@@ -13,7 +13,7 @@ var num_1=2;
 var num_2=2;
 void random(){
   Random rng = new Random();
-   num_1=rng.nextInt(5)+1;
+   num_1=rng.nextInt(7)+1;
    num_2=rng.nextInt(5)+1;
    
 
